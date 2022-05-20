@@ -1,5 +1,4 @@
-# SICP DATA ABTRACTIONS AND SENTIMENT ANALYSIS OF UGANDA TWEETS
-This work is for only education purposes. 
+### SICP DATA ABSTRACTIONS AND SENTIMENT ANALYSIS OF UGANDA TWEETS
 
 Project aims
 The goal of this project is to enable you study an existing code base, identify abstractions (data, & procedure abstractions) and build new abstractions for a given problem domain. You will explore Data Science abstractions for Scheme - https://github.com/n3mo/
